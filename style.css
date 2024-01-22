@@ -1,0 +1,18 @@
+.page1{
+    display: flex;
+}
+.page2{
+    display: flex;
+}
+.page3{
+    display: flex;
+}
+.p1{
+    margin-left: 10px;
+    font-family: Chandas;
+}
+img{
+    width: 200px;
+    height: 200px;
+
+}

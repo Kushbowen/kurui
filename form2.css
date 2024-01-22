@@ -1,0 +1,45 @@
+body{
+    background-color: #f10a32;
+}
+form{
+    background-color: #00ffd0;
+    margin:auto;
+    width: 50%;
+    padding: 30px;
+
+}
+button{
+    font-weight: bold;
+
+    width: 100%;
+}
+#nme{
+    margin-left: 80px;
+}
+#email{
+    margin-left: 80px;
+}
+#psw {
+    margin-left: 50px;
+
+}
+#pn{
+    margin-left: 5px;
+}
+.male{
+    margin-left: 70px;
+}
+#lng{
+    margin-left: 60px;
+    width: 30%;
+}
+#zc{
+    margin-left: 50px;
+}
+#abt{
+    margin-left: 70px;
+}
+input[type=text] [type=email]{
+    padding: 10px;
+}
+

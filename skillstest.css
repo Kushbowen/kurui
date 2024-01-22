@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    padding: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+a{
+    color: #4d024d;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+p{
+    font-weight: normal;
+    font-size: 15px;
+    padding: 10px;
+}
+h2{
+    padding: 10px;
+}
